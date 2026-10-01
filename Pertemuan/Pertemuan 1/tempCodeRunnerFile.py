@@ -1,0 +1,1 @@
+print(hero1.name)

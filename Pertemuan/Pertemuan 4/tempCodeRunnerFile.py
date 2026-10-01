@@ -1,0 +1,1 @@
+print(f"Menyerang menggunakan panah ke {target.name}")
